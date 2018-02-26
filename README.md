@@ -1,0 +1,11 @@
+# sentiment_analysis_nlp_module
+Three different classifiers using different datasets, and different types of words from part of speech classifier
+
+##Text Classifier 1
+Uses all the words in the movie review corpus in the NLTK Library
+
+##Text Classifier 2
+Uses only adjectives for from the movie review corpus in the NLTK Library.
+
+##Sentiment Text Classifier
+Uses two text files present in the repo as dataset for classification.
