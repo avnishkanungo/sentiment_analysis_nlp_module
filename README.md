@@ -1,4 +1,4 @@
-# sentiment_analysis_nlp_module
+# NLP Module for Sentiment Analysis using NLTK library
 Three different classifiers using different datasets, and different types of words from part of speech classifier
 
 ## Text Classifier 1
